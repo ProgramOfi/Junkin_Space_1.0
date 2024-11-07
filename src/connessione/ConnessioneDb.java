@@ -7,7 +7,7 @@ import com.mysql.cj.jdbc.MysqlDataSource;
 public class ConnessioneDb {
 
     // Parametri di configurazione del DB
-    private static final String NOME_DB = "junkin_space_1.0"; // nome database
+    private static final String NOME_DB = "junkin_space"; // nome database
     private static final int PORT = 3306; // porta
     private static final String SERVER_NAME = "localhost"; // indirizzo server MySqlWorkbench
     private static final String USERNAME = "root"; // username
